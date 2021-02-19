@@ -19,7 +19,7 @@ function setup() {
 
 	bg= createSprite(windowWidth/2,windowHeight/2,windowWidth,windowHeight);
 	bg.addImage(bgImage);
-	bg.scale=3.4;
+	bg.scale=3.2;
 	bg.velocityX=-3;
 
 	healthyFoodGroup = new Group();
